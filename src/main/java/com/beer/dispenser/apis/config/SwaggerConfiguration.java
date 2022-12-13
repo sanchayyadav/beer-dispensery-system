@@ -59,7 +59,7 @@ public class SwaggerConfiguration implements WebMvcConfigurer {
 					.title("Beer Dispensery REST APIs")
 					.description("This API manages the flow of a tap beer dispenser mechanism to help those bars that allow their clients to serve themselves beer.\n"
 							+ " Every time a client opens the tap, this API starts counting how many liters come out of the tap until is closed.\n" 
-							+ " After that, the bartender could know how much their customers have spent drinking beer! :beers:”Beer Dispensery REST APIs built on Spring Boot, JPA, Maven, MySQL, JWT, Swagger, Docker etc.")
+							+ " After that, the bartender could know how much their customers have spent drinking beer! :beers:”Beer Dispensery REST APIs built on Spring Boot, JPA, Maven, MySQL, JWT, Swagger, Docker, JUnit etc.")
 					.license("Apache 2.0")
 	                .licenseUrl("http://www.apache.org/licenses/LICENSE-2.0.html")
 	                .version("1.0.0")
