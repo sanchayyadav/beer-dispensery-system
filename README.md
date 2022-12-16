@@ -14,7 +14,7 @@ When you open/close a beer tap of dispensery after closing tap of dispensery you
 - Maven
 - JPA
 - Docker
-- Junit
+- JUnit-5 + Mockito 
 
 
 ## ➤ API Reference
